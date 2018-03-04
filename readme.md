@@ -9,7 +9,7 @@ Adds `data-src` to the list of all attributes that may produce a dependency. Sup
 Make sure you have [installed parcel](https://parceljs.org/getting_started.html) before continuing.
 
 ```bash
-yarn add --dev parcel-plugin-foo
+yarn add --dev parcel-plugin-html
 # or
-npm install --save-dev parcel-plugin-foo
+npm install --save-dev parcel-plugin-html
 ```    
