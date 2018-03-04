@@ -1,7 +1,7 @@
 {
   "name": "parcel-plugin-html",
   "description": "Adds `data-src` to the list of all attributes that may produce a dependency. Supported elements are `<script>`, `<img>`, `<audio>`, `<video>`, `<source>`, `<track>`, `<iframe>` and `<embed>`.",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "dependencies": {
     "parcel-bundler": "^1.6.2"
   }
