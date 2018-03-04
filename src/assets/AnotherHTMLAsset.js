@@ -1,4 +1,4 @@
-const HTMLAsset = require('../../node_modules/parcel-bundler/src/assets/HTMLAsset');
+const HTMLAsset = require('parcel-bundler/src/assets/HTMLAsset');
 
 // A list of all attributes that may produce a dependency
 // Based on https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
