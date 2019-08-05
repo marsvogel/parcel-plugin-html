@@ -25,7 +25,7 @@ const ATTRS = {
   ],
   href: ['link', 'a'],
   poster: ['video'],
-  'xlink:href': ['use'],
+  'xlink:href': ['use', 'image'],
   content: ['meta']
 };
 
